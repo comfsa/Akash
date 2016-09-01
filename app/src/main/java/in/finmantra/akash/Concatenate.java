@@ -12,6 +12,8 @@ public class Concatenate extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_concatenate);
 
+        //Doing Testing for Github Update Repository
+
         final TextView res;
         Button click;
 
