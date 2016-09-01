@@ -36,6 +36,7 @@ public class Display extends AppCompatActivity {
                 Intent i= new Intent(getApplicationContext(),result.class);
                 startActivity(i);
                 finish();
+                //End of Method
             }
         });
     }
