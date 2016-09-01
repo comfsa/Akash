@@ -37,6 +37,7 @@ public class Display extends AppCompatActivity {
                 startActivity(i);
                 finish();
                 //End of Method
+                //Checking Testing Purpose
             }
         });
     }
